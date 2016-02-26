@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=newMaze
+comment0.target=Cheat(Maze)
+comment1.params=
+comment1.target=Move\ move()
+comment2.params=g\ drawX\ drawY
+comment2.target=void\ draw(java.awt.Graphics,\ int,\ int)
+numComments=3
